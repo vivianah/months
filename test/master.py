@@ -1,4 +1,5 @@
-do_step1()
+def do_step1():
+	print("I'm step 1")
 
 
 
